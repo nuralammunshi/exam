@@ -1,0 +1,72 @@
+body{
+    margin: 0px;
+    padding:0px;
+    text-decoration: none;
+}
+/* nave section and Taste the Creativity section start  */
+nav,.taste-the-creativity {
+  background-color: #19283f;
+}
+nav ul li button{
+    background-color: #ff3150;
+    border-style: none;
+    font-size: 15px;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  border-radius: 13px;
+}
+nav ul li .nav-link{
+    color: white;
+}
+nav ul li .nav-link:hover{
+    color:#00c6bf !important ;
+}
+nav ul li .n{
+border-right: 1px solid #00c6bf;
+}
+nav ul li .fa-solid{
+    color:#00c6bf ;
+}
+.taste-the-creativity .middel{
+    text-align: center;
+    padding-top: 90px;
+    color: white;
+}
+.taste-the-creativity .btn{
+    background-color:#ff3150 ;
+    color: #ffc501;
+    padding-left: 30px;
+    padding-right: 30px;
+    border-radius: 13px;
+    margin-bottom: 50px;
+}
+/* nave section and Taste the Creativity section end  */
+/* service-section start */
+.service-section .good-at-part{
+    text-align: center;
+    padding-top: 30px;
+}
+.service-part .card-title{
+    font-size: 20pt;
+    color: #ffc501;
+    text-align: center;
+}
+.service-part .card-text{
+    font-size: 11pt;
+}
+/* service-section end*/
+/* Portfolio-section  start */
+.Portfolio-section .good-at-part{
+    text-align: center;
+    padding-top: 30px;
+}
+/* .nav nav-pills .nav-item a{
+    color: #c0ced3;
+}
+.profile-nav{
+    text-align: center;
+    margin:0px auto
+} */
+/* Portfolio-section  end */
