@@ -53,20 +53,136 @@ nav ul li .fa-solid{
     color: #ffc501;
     text-align: center;
 }
-.service-part .card-text{
+.service-part .card-text{         
     font-size: 11pt;
 }
 /* service-section end*/
 /* Portfolio-section  start */
+
+.portfolio-nav button{
+    color: #c0ced3;
+    padding-bottom: 30px;
+}
+.portfolio-nav button:hover{
+    background-color: #ff3150;
+    color: white;
+    border-radius: 10px;
+}
+.Portfolio-section{
+    background-color: #eff7fa;
+}
 .Portfolio-section .good-at-part{
     text-align: center;
     padding-top: 30px;
 }
-/* .nav nav-pills .nav-item a{
-    color: #c0ced3;
-}
-.profile-nav{
+.button-section{
     text-align: center;
-    margin:0px auto
-} */
-/* Portfolio-section  end */
+   color: #ffbe07;
+}
+.button-section button{
+   background-color: #ff3150;
+   border-radius: 10px;
+   border: none;
+   padding: 5px;
+}
+.about-section{
+    text-align: center;
+}
+.team-section{
+    background-color: #eff7fa;
+    text-align: center;
+    padding: 40px;
+}
+
+.Project{
+    text-align: center;
+    background-color: #19283f;
+    color: white;
+}
+
+
+
+.about-section p{
+    font-size: 15px;
+}
+
+.about-section  button {
+    color:#ffc501 ;
+    background-color:#ff3150 ;
+    border-radius: 10px;
+    border: none;
+    padding: 10px 30px;
+}
+.team-section h1{
+    color:#ffc501 ;
+}
+.team-section .card .card-title{
+    background-color: #33d1cc;
+    color: white;
+padding: 7px ;
+
+}
+.team-section .card .card-text{
+    color: #c5d0d5;
+}
+
+.Project button{
+    background-color: #ff3150;
+    color:#ffc501 ;
+    border: none;
+    border-radius: 20px;
+    padding: 10px 40px;
+}
+.blog .button {
+    text-align: center;
+}
+.blog .button button {
+    text-align: center;
+    padding: 10px 40px;
+    background-color: #ff3150;
+    color:#ffc501 ;
+    border-radius: 20px;
+    border: none;
+}
+.subscribe{
+    background-color: #ffc400;
+}
+.subscribe input{
+outline: none !important;
+border: none;
+background-color: #ffc400;
+color: white;
+border-bottom: 1px solid white;
+
+
+}
+.subscribe button{
+    background-color: black;
+    color: #ffc400;
+    border-radius: 20px;
+    border: none;
+    padding: 10px 40px;
+}
+footer{
+background-color: #19283f;
+color: white;
+font-size: 13px;
+}
+footer ul li, a{
+    font-size: 13px;
+    text-decoration: none;
+    color: white;
+    list-style: none;
+    padding-top: 5px;
+}
+footer button{
+    background-color: #ff3150;
+    color: white;
+    border-radius: 20px;
+    border: none;
+    padding: 10px 80px;
+    font-size: 13px;
+}
+.icon li{
+    display: inline-block;
+}
